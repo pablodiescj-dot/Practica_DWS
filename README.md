@@ -1,4 +1,4 @@
-# Registro de Criminales
+# Roles de Usuario
 
 Este proyecto es una aplicación web para la gestión de una empresa, que incluye funcionalidades para gestionar empleados, departamentos y sedes. También incluye un sistema de autenticación y recuperación de contraseñas.
 
